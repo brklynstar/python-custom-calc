@@ -9,7 +9,7 @@ print("\n" "Rectangular Tank Volume Calculator (in units)" "\n")
 
 #Input
 length_input = float(input("Length value : ")) 
-base_input = float(input("Width value : "))
+base_input = float(input("Base value : "))
 height_input= float(input("Height value .: " ))
 
 
