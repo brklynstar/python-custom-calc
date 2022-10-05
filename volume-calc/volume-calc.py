@@ -5,7 +5,7 @@ def calculate_volume(length, base, height):
 
 
 #Welcome Message
-print("\n" "Rectangular Tank Volume Calculator (in units)" "\n")
+print("\n" "Empty Rectangular Tank Volume Calculator (in units)" "\n")
 
 #Input
 length_input = float(input("Length value : ")) 
